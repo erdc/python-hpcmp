@@ -18,28 +18,28 @@
 	url = git://github.com/PyTables/PyTables.git
 [submodule "zlib"]
 	path = zlib
-	url = git://github.com/erdc-cm/zlib.git
+	url = git://github.com/erdc/zlib.git
 [submodule "szip"]
 	path = szip
-	url = git://github.com/erdc-cm/szip.git
+	url = git://github.com/erdc/szip.git
 [submodule "petsc4py"]
 	path = petsc4py
-	url = git://github.com/erdc-cm/petsc4py.git
+	url = git://github.com/erdc/petsc4py.git
 [submodule "petsc"]
 	path = petsc
-	url = git://github.com/erdc-cm/petsc.git
+	url = git://github.com/erdc/petsc.git
 [submodule "numexpr"]
 	path = numexpr
-	url = git://github.com/erdc-cm/numexpr.git
+	url = git://github.com/erdc/numexpr.git
 [submodule "nose"]
 	path = nose
-	url = git://github.com/erdc-cm/nose.git
+	url = git://github.com/erdc/nose.git
 [submodule "hdf5"]
 	path = hdf5
-	url = git://github.com/erdc-cm/hdf5.git
+	url = git://github.com/erdc/hdf5.git
 [submodule "python"]
 	path = python
-	url = git://github.com/erdc-cm/python.git
+	url = git://github.com/erdc/python.git
 [submodule "PyTables"]
 	path = PyTables
 	url = git://github.com/PyTables/PyTables.git
